@@ -95,11 +95,11 @@ Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE.md](LICENSE.
 
 ## 📞 Contacto
 
-**Desarrollador:** [Tu Nombre]  
-**Email:** tu.email@ejemplo.com  
-**LinkedIn:** [tu-perfil-linkedin]  
-**Portfolio:** [tu-portfolio.com]  
-**Dribbble:** [tu-perfil-dribbble]
+**Desarrollador:** []  
+**Email:** claudio.a.vargas@gmail.com  
+**LinkedIn:** []  
+**Portfolio:** []  
+**Dribbble:** []
 
 ---
 
